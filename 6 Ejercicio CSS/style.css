@@ -1,0 +1,27 @@
+/* Estilos para external.html */
+body.external {
+    background-color: green;
+  }
+  
+  body.external h1 {
+    color: lime;
+  }
+  
+  /* Estilos para inline.html */
+  body.inline {
+    background-color: blue; 
+  }
+  
+  body.inline h1 {
+    color: skyblue; 
+  }
+  
+  /* Estilos para internal.html */
+  body.internal {
+    background-color: red; 
+  }
+  
+  body.internal h1 {
+    color: pink; 
+  }
+  
